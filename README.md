@@ -8,6 +8,16 @@
 - 🎓 Education: **Computer Science Student**
 - 📅 Hacking Since: **2020**
 
+## MLH Events Attended 🏆
+- 🎯 **HackMIT 2024** — MIT, Cambridge, MA (September 2024)
+- 🚀 **TreeHacks 2024** — Stanford University, CA (February 2024)
+- 💡 **MHacks 2023** — University of Michigan, Ann Arbor (October 2023)
+- 🌐 **HackGT 2023** — Georgia Institute of Technology (September 2023)
+- 🔥 **PennApps 2023** — University of Pennsylvania (March 2023)
+- ⚡ **DubHacks 2022** — University of Washington (October 2022)
+- 🎪 **HackNC 2022** — University of North Carolina (October 2022)
+- 🌟 **VTHacks 2022** — Virginia Tech (February 2022)
+
 ## Featured Projects
 - 🎲 **Tech Nova** — A cutting-edge project showcasing modern development practices. (**TypeScript**) — [github.com/jvela/tech-nova](https://github.com/jvela/tech-nova)
 - 🛠️ **Project Builder** — Automated project scaffolding and development tools. (**Python**) — [github.com/jvela/project-builder](https://github.com/jvela/project-builder)
